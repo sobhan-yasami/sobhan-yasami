@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi, I'm Sobhan Yasami! <br>🚀 Full-stack developer, bug hunter, and part-time bug creator. <br>🤖 I talk to computers all day. They only sometimes listen. <br>📝 Lecturer, teaching students how to Google better. <br>🌍 Fluent in JavaScript, Python, and sometimes human languages. <br>🐛 Fixing bugs faster than I create them. (Sometimes.)
+👋 Hi, I'm Sobhan Yasami! <br>🚀 Full-stack developer, bug hunter, and part-time bug creator. <br>🤖 I talk to computers all day. They only sometimes listen. <br>📝 Lecturer, teaching students how to Google better. <br>🌍 Fluent in Go, JavaScript, Python, and sometimes human languages. <br>🐛 Fixing bugs faster than I create them. (Sometimes.)
 
 ## 🌐 Socials:
 
